@@ -78,7 +78,9 @@ Use slicers and filters to explore the dashboard interactively.
 
 ## 📸 Dashboard Preview
 dashboard-main.png
+
 subcategory.png
+
 profit-analysis.png
 
 ## 📌 Project Learnings
